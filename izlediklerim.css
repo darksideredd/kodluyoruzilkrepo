@@ -1,0 +1,12 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    color: aquamarine;
+}
+h2{
+    color: blue;
+}
+div{
+    list-style-position: inside;
+}

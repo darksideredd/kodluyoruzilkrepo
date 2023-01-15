@@ -1,0 +1,9 @@
+body{
+    background-color:indianred;
+}
+h1{
+    color: aquamarine;
+}
+div{
+    list-style-position: inside;
+}
